@@ -1,0 +1,134 @@
+.fs {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: flex-start;
+  background-color: khaki;
+}
+
+.fs div{
+  height: 100% ;
+  width: 50px;
+  margin: 20px;
+  background-color: darkcyan;
+}
+
+.fe {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: flex-end;
+  background-color: silver;
+}
+
+.fe div{
+  height: 100% ;
+  width: 50px;
+  margin: 20px;
+  background-color: chartreuse;
+}
+
+.sa{
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgreen;
+}
+
+.sa div{
+  height: 50px ;
+  width: 50px;
+  margin: 20px;
+  background-color: purple;
+}
+
+.sb {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  background-color: palevioletred;
+}
+
+.sb div{
+  height: 50px ;
+  width: 50px;
+  margin: 20px;
+  background-color: black;
+}
+
+.se {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: palevioletred;
+}
+
+.se div{
+  height: 50px ;
+  width: 50px;
+  margin: 20px;
+  background-color: rgb(219, 204, 204);
+} 
+
+.sl {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(255, 255, 255);
+}
+
+.sl div{
+  height: 150px ;
+  width: 100%;
+  margin: 20px;
+  background-color: rgb(230, 230, 230);
+}   
+
+.row {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWKBXyIfDnIV7nDrXyi0A.woff2) format('woff2');
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+.row div{
+  height: 150px ;
+  width: 100%;
+  margin: 20px;
+  background-color:; 
+} 
+
+.col-4 sm-hide {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: 
+}
+
+.col-4 sm-hide div{
+  height: 150px ;
+  width: 100%;
+  margin: 20px;
+  background-color:
+} 
+
+.logos-footer {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: ;
+}
+
+.logos-footer{
+  height: 500px ;
+  width: 100%;
+  margin: 20px;
+  background-color: rgb(232, 236, 0);
+} 
+
